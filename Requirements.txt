@@ -1,0 +1,4 @@
+pandas → data loading & preprocessing
+numpy → numerical operations
+matplotlib→ visualization (plots)
+scikit-learn → regression model & evaluation
